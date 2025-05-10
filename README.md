@@ -1,4 +1,4 @@
-
+rigoro2508@gmail.com 
 <p align="center">
   <img src="assets/world-chain.png" alt="World Chain">
 </p>
